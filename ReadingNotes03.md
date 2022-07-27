@@ -1,3 +1,5 @@
+<!doctype html>
+
 # Introduction to Help Desk Support Roles
 
 #### Dean Weiss
