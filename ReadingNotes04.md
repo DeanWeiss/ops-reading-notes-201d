@@ -82,4 +82,7 @@
  
  ## IT WORKS YAY!!!
  
+ ## Things I want to know more about
+ Are there more steps to this that dig deeper into the weeds? Is it also so cut and paste or can you be implimenting some of these steps all at the same time?
+ 
  
