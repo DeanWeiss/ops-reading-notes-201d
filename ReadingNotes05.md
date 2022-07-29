@@ -27,3 +27,6 @@ Port 445 - Used by newer versions of SMB (after Windows 2000) on top of a TCP st
 
 
 ###### Cited from: https://www.upguard.com/blog/smb-port
+
+## Things I want to know more about
+I am really interested in how to protect and exploit these ports, how do our enemies attack us through these ports? Who creates these ports? 
