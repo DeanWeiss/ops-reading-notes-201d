@@ -29,5 +29,8 @@ It gives a detailed analysis of the working of all the applications in Windows 1
 
 It facilitates us in tracing those applications that cause problems while running. After viewing the detailed report of those problems, you can easily resolve them. This not only increases the efficiency of your computer system but also saves you in the future from some of the most commonly occurring issues. In this article, we will explain to you the method of using the Event Viewer in Windows 10.
 
+## Things I want to know more about
+How indepth is the ability to monitor your families devices, and which operating systems is that function compatible with?
+
 source: https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/
 source: https://www.thewindowsclub.com/windows-defender-security-center
