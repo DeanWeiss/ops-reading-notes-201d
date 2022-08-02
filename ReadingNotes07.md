@@ -31,3 +31,5 @@ Grew over 600% since 2018, it is called Living off the Land uses softward on you
   Community – PowerShell has one of the most connected and welcoming communities in tech. Plugging into it will only help you become a better admin/engineer
   Relevant – PowerShell continues to grow and be adopted. If you’re not learning it, you won’t remain competitive in the job market
  
+## Things I want to know more about
+These articles did a good job of breaking PowerShell is. I am curious as to what the most common scripts are that people run. I will be checking out the Youtube channel that was linked and watching some of those videos.
