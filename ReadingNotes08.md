@@ -25,6 +25,8 @@ You’re done. You can click “OK” to save your change and close the Registry
 
 That’s all performing a registry hack involves—you’ve now opened the Registry Editor, located the value you want to change, and changed it."
 
+## Things I want to know more about
+  I'd like to mess around and see what you can actually do and how hackers might use your registry file against you.
 
 
 Source: https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/
