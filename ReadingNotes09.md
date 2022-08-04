@@ -4,7 +4,7 @@ Dean Weiss
 
 # So, You Want to Write an SOP?
 
-####SOP's Broken Down
+#### SOP's Broken Down
 <li>
   <ul>Policy. Answers “Why?” Provides broad, overarching guidance.</ul>
 <ul>SOP. Answers “What, when, and why.” What needs to be done, when does it need to be done, and why is it being done. There may be multiple SOPs that support a specific policy.</ul>
@@ -13,7 +13,7 @@ Dean Weiss
 
 SOPs are a primary way to implement or enforce a policy. Policies are intended to steer an organization to achieve the mission, vision, and goals of an organization, but without SOPs, are not actionable. SOPs also encourage consistency in execution, which is critical for demonstrating compliance with or achievement of targets described in a service level agreement.
 
-####Things to Consider
+#### Things to Consider
 <li>
 <ul>Readable. This means legible font sizes, numbered pages, titles, numbered paragraph headings, and effective use of whitespace.</ul>
 <ul>Consumable. Using a template or predefined format makes the content easy to read.</ul>
@@ -24,7 +24,7 @@ SOPs are a primary way to implement or enforce a policy. Policies are intended t
 
 Make a plan when writing an SOP, don't get in blind. Write out its path, a flow-chart can help simplify this process.
 
-####Five Guiding Principles
+#### Five Guiding Principles
 <li>
 <ol>Keep it simple. Keep in mind that especially at the Service Desk, the SOP is likely to be referenced while handling a customer contact. The SOP should augment and reinforce training; it is not a substitute for training.</ol>
 <ol>SOPs must be portable. Even if an underpinning application or tool is changed, the “what, when, and why” generally will not. This is why I use work instructions to map the SOP to the underpinning tool.</ol>
