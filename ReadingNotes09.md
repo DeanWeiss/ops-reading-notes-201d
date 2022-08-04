@@ -26,7 +26,7 @@ Make a plan when writing an SOP, don't get in blind. Write out its path, a flow-
 
 #### Five Guiding Principles
 <ol>
-<<li>Keep it simple. Keep in mind that especially at the Service Desk, the SOP is likely to be referenced while handling a customer contact. The SOP should augment and reinforce training; it is not a substitute for training.</li>
+<li>Keep it simple. Keep in mind that especially at the Service Desk, the SOP is likely to be referenced while handling a customer contact. The SOP should augment and reinforce training; it is not a substitute for training.</li>
 <li>SOPs must be portable. Even if an underpinning application or tool is changed, the “what, when, and why” generally will not. This is why I use work instructions to map the SOP to the underpinning tool.</li>
 <li>Flowcharts and diagrams tell a story. People learn and interpret information in different ways. Some people like to read about how something should be done, others like to see “the big picture” and then read the details. Having a flowchart or diagrams (as appropriate) is a great way to quickly communicate what activities are addressed within the SOP.</li>
 <li>Consistency counts. Develop and use a consistent format or template to help make the SOP consumable.</li>
