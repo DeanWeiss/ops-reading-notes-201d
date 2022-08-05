@@ -21,11 +21,13 @@ Twelve of its features are as follows.
 <li> VM file recovery from backup (VMX, VHD, VMDK, etc.) </li>
 </ol>
 
-<li>
-<ul> VeeamZIP – Creates an ad-hoc backup of a running VM, which gives you many benefits such as being able to easily copy a backup to another host without having to power off the original VM. </ul>
-<ul> Powerful and flexible restores – Supports a number of recovery scenarios, including recovery of an entire VM, guest OS files and individual application items </ul>
-<ul Quick Migration (VMware) – Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even VMware vMotion or Storage vMotion </ul>
-</li>
+<ul>
+<li> VeeamZIP – Creates an ad-hoc backup of a running VM, which gives you many benefits such as being able to easily copy a backup to another host without having to power off the original VM. </li>
+  
+<li> Powerful and flexible restores – Supports a number of recovery scenarios, including recovery of an entire VM, guest OS files and individual application items </li>
+  
+<li> Quick Migration (VMware) – Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even VMware vMotion or Storage vMotion </li>
+</ul>
 
 
 
