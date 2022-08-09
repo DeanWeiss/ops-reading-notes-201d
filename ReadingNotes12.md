@@ -6,7 +6,7 @@ Dean Weiss
 
 pfSense is a free, customized distribution of FreeBSD that can turn an old computer into a full featured router and firewall.
 
-#### Popular Uses for pfSense
+### Popular Uses for pfSense
 
 <ul>
 <li> LAN/WAN Router </li>
@@ -22,17 +22,17 @@ pfSense is a free, customized distribution of FreeBSD that can turn an old compu
 <li> Port Forwarding / NAT (Network Address Translation) </li>
 </ul>
 
- #### Why Use pfSense?
+ ### Why Use pfSense?
   It is fast, free and stable. It is highly customizable, giving you full control of the components you want.
   
- #### Embedded Installation
+ ### Embedded Installation
   It can also be installed on several different embedded platforms; Pc-Engines, Soekris, Alix and others.
   
   Embedded installs create small, quiet, low power appliance to run on your network. It looks more professional to set up an embedded pfSense device rather than an entire PC. 
   
   The embedded version is different than the PC version. It has been tweaked to extend the life of the storage media.
   
-  #### Getting Started with pfSense and Support
+  ### Getting Started with pfSense and Support
    A computer with at least two network cards installed, free support is available through the forums, mailing list and also on IRC. BSH Perimeter, the company that founded pfSense also offers commercial support, which is designed for users running pfSense in an enterprise environment.
   
   A one-year support subscription includes five hours of support that can be used for configuration questions, network design, migrations to pfSense , as other issues you may encounter.
