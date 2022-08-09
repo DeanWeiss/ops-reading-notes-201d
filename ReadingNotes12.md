@@ -8,19 +8,19 @@ pfSense is a free, customized distribution of FreeBSD that can turn an old compu
 
 #### Popular Uses for pfSense
 
-<li>
-  <ul> LAN/WAN Router </ul>
-<ul> Internet Cafes </ul>
-<ul> Wireless Hotspot (Captive Portal) </ul>
-<ul> VPN Router </ul>
-<ul> Firewall </ul>
-<ul> DHCP / DNS Server /ul>
-<ul> Wireless Access Point </ul>
-<ul> Transparent Squid Proxy Server </ul>
-<ul> Multi Wan Router or Load Balancer </ul>
-<ul> DNS Blacklist </ul>
-<ul> Port Forwarding / NAT (Network Address Translation) </ul>
-</li>
+<ul>
+<li> LAN/WAN Router <</li>
+<li> Internet Cafes </li>
+<li> Wireless Hotspot (Captive Portal) </li>
+<li> VPN Router </li>
+<li> Firewall </li>
+<li> DHCP / DNS Server </li>
+<li> Wireless Access Point </li>
+<li> Transparent Squid Proxy Server </li>
+<li> Multi Wan Router or Load Balancer </li>
+<li> DNS Blacklist </li>
+<li> Port Forwarding / NAT (Network Address Translation) </li>
+</ul>
 
  #### Why Use pfSense?
   It is fast, free and stable. It is highly customizable, giving you full control of the components you want.
