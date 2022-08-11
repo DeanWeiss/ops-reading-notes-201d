@@ -24,3 +24,5 @@ Reading Notes 01 and 02 are Google Docs, will link them later.
 [Reading Notes 12](https://deanweiss.github.io/ops-reading-notes-201d/ReadingNotes12)
 <br>
 [Reading Notes 13](https://deanweiss.github.io/ops-reading-notes-201d/ReadingNotes13)
+<br>
+[Reading Notes 14](https://deanweiss.github.io/ops-reading-notes-201d/ReadingNotes14)
